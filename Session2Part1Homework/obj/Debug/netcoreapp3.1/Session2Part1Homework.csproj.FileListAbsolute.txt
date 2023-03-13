@@ -1,0 +1,5 @@
+C:\Users\2195924\Desktop\Trina-Master-Files\Trainings\API Automation (Batch 4)\Session 2.1\Activity\Session2.1-Homework\Session2Part1Homework\obj\Debug\netcoreapp3.1\Session2Part1Homework.csproj.AssemblyReference.cache
+C:\Users\2195924\Desktop\Trina-Master-Files\Trainings\API Automation (Batch 4)\Session 2.1\Activity\Session2.1-Homework\Session2Part1Homework\obj\Debug\netcoreapp3.1\Session2Part1Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2195924\Desktop\Trina-Master-Files\Trainings\API Automation (Batch 4)\Session 2.1\Activity\Session2.1-Homework\Session2Part1Homework\obj\Debug\netcoreapp3.1\Session2Part1Homework.AssemblyInfoInputs.cache
+C:\Users\2195924\Desktop\Trina-Master-Files\Trainings\API Automation (Batch 4)\Session 2.1\Activity\Session2.1-Homework\Session2Part1Homework\obj\Debug\netcoreapp3.1\Session2Part1Homework.AssemblyInfo.cs
+C:\Users\2195924\Desktop\Trina-Master-Files\Trainings\API Automation (Batch 4)\Session 2.1\Activity\Session2.1-Homework\Session2Part1Homework\obj\Debug\netcoreapp3.1\Session2Part1Homework.csproj.CoreCompileInputs.cache
